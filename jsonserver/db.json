@@ -1,24 +1,19 @@
 {
   "books": [
     {
-      "id": "1",
-      "title": "the power of now",
-      "rating": "1"
+      "title": "New Book",
+      "rating": "3.6",
+      "id": 1
     },
     {
-      "id": "2",
-      "title": "six figure",
-      "rating": "2.3"
-    },
-    {
-      "title": "figure",
-      "rating": "2",
-      "id": "vNufply"
+      "title": "Hello word",
+      "rating": "5",
+      "id": 2
     },
     {
       "title": "sss",
-      "rating": "5",
-      "id": "ZqNkMa0"
+      "rating": "8",
+      "id": 3
     }
   ]
 }
